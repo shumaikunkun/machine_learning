@@ -13,6 +13,9 @@ Pythonで機械学習の基礎を実装
 |4|ガウシアンプロセス回帰|[4_gpAirQuality.ipynb](https://github.com/shumaikunkun/machine_learning/blob/master/4_gpAirQuality.ipynb)|
 |5|クラスタリング|[5_clusIris.ipynb](https://github.com/shumaikunkun/machine_learning/blob/master/5_clusIris.ipynb)|
 |6|単純パーセプトロン|[6_binSimpPercep.ipynb](https://github.com/shumaikunkun/machine_learning/blob/master/6_binSimpPercep.ipynb)|
+|7|多層パーセプトロン|[7_multiLayerPercep.ipynb](https://github.com/shumaikunkun/machine_learning/blob/master/7_multiLayerPercep.ipynb)|
+
+
 
 
 
